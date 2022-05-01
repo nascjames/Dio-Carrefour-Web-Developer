@@ -1,0 +1,9 @@
+Enviar Novos Arquivos/Pastas para o GitHub
+
+1.Criar arquivos/pastas no repositório local.
+2.Comando git status
+3.Comando git add . ou git add -A(para adicionar todos os arquivos)
+4.Comando git status
+5.Comando git commit -m "<mensagem explicativa/comentários>" (adiciona modificações no repositório local)
+6.Comando git status
+7.Comando git push origin main (envia as modificações para o repositório remoto)
