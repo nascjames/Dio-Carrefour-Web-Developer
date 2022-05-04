@@ -1,0 +1,7 @@
+Confirações Básicas
+
+1.E-mail: git config --global user.email "nascjames@hotmail.com"
+
+2.Nome: git config --global user.name "James"
+
+
